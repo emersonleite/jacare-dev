@@ -1,0 +1,9 @@
+body {
+  height: 100vh;
+  font-family: sans-serif;
+}
+
+#app, #app2 {
+  max-width: 750px;
+  height: 750px;
+}

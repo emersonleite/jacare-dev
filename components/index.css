@@ -1,0 +1,17 @@
+td {
+  padding: 10px;
+  text-align: center;
+}
+
+.current-date {
+  background-color: pink;
+}
+
+li {
+  list-style-type: none;
+}
+
+.selected-date {
+  background-color: blue;
+  color: white;
+}
