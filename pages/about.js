@@ -4,7 +4,7 @@ export default {
   name: "teste",
   data() {
     return {
-      name: "Emerson"
+      name: "Emerson Leite"
     };
   },
   components: {
